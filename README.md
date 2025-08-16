@@ -190,7 +190,7 @@ If you see the Pegasus banner and the menu, you’re good to go.
 
 👉 [scrcpy Installation Guide for Linux](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md)
  - **`scrcpy` not found in windows**
- - `winget install Genymobile.scrcpy` (Windows).
+   - `winget install Genymobile.scrcpy` (Windows).
 
 - **Permission denied / file not pulled**
   - Ensure storage permission if prompted on device.
