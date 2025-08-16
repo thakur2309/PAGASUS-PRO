@@ -77,6 +77,12 @@ sudo apt install -y android-sdk-platform-tools-common
 > If `scrcpy` is not needed, you may skip it. Everything else is required.
 
 ---
+## scrcpy Installation  
+
+Since `sudo apt install scrcpy` may not work on some systems, please follow the official installation guide:  
+
+👉 [scrcpy Installation for Linux](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md)
+
 
 ## 🪟 Windows Setup (Optional)
 - Install **Android Platform Tools** (ADB) from Google or via **winget**:
