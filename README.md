@@ -186,7 +186,10 @@ If you see the Pegasus banner and the menu, you’re good to go.
   - Verify IP is correct from Wi‑Fi details.
 
 - **`scrcpy` not found**
-  - Install: `sudo apt install scrcpy -y` (Linux) or `winget install Genymobile.scrcpy` (Windows).
+  - Since `sudo apt install scrcpy` may not work on some systems, please follow the official installation guide:  
+
+👉 [scrcpy Installation Guide for Linux](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md)
+ `winget install Genymobile.scrcpy` (Windows).
 
 - **Permission denied / file not pulled**
   - Ensure storage permission if prompted on device.
