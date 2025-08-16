@@ -189,7 +189,8 @@ If you see the Pegasus banner and the menu, you’re good to go.
   - Since `sudo apt install scrcpy` may not work on some systems, please follow the official installation guide:  
 
 👉 [scrcpy Installation Guide for Linux](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md)
- `winget install Genymobile.scrcpy` (Windows).
+ - **`scrcpy` not found in windows**
+ - `winget install Genymobile.scrcpy` (Windows).
 
 - **Permission denied / file not pulled**
   - Ensure storage permission if prompted on device.
