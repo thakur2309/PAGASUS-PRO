@@ -100,8 +100,8 @@ Since `sudo apt install scrcpy` may not work on some systems, please follow the 
 
 ## ⬇️ Get the Code
 ```bash
-git clone https://github.com/your-username/pegasus.git
-cd pegasus
+git clone https://github.com/thakur2309/PAGASUS-PRO.git
+cd PAGASUS-PRO
 # Place your script here as: pegasus.py
 ```
 
@@ -111,7 +111,7 @@ cd pegasus
 
 ## ▶️ Run Pegasus
 ```bash
-python3 pegasus.py
+python3 lanch.py
 ```
 If you see the Pegasus banner and the menu, you’re good to go.
 
