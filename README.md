@@ -111,7 +111,7 @@ cd PAGASUS-PRO
 
 ## ▶️ Run Pegasus
 ```bash
-python3 lanch.py
+python3 pegasus.py
 ```
 If you see the Pegasus banner and the menu, you’re good to go.
 
