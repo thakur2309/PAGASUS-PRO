@@ -25,8 +25,8 @@ It’s perfect for beginners who want a clean interface to: check device info, c
 
 ---
 ## 🗝️ Licence key
-- 🔐 For licence key message me on instagram 📌
-- Instagram Username `sudo_xploit`
+- 🔐 For licence key message me on instagram 
+- 📌 Instagram Username `sudo_xploit`
   
 - 👉 [Instagram](https://www.instagram.com/sudo_xploit?igsh=MWN0YWc3N2JyenhoNw==)
 
