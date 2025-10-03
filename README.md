@@ -32,14 +32,14 @@ It’s perfect for beginners who want a clean interface to: check device info, c
 
 ---
 ### Example Output V-1.1 🎥
-![Instagram Image ](https://raw.githubusercontent.com/thakur2309/BTSTORM/refs/heads/main/IMG-20250926-WA0013.jpg)
+![Instagram Image ](https://raw.githubusercontent.com/thakur2309/PAGASUS-PRO/refs/heads/main/Screenshot_2025_1002_113702.jpg)
 
 ---
 ### Example Output V-1.2 🎥
-![Instagram Image ](https://raw.githubusercontent.com/thakur2309/BTSTORM/refs/heads/main/IMG-20250926-WA0013.jpg)
+![Instagram Image ](https://raw.githubusercontent.com/thakur2309/PAGASUS-PRO/refs/heads/main/Screenshot_2025_1003_144711.jpg)
 
 <h3 align="center"> 📌Version-1.3 comming soon..</h3>
----
+
 ## ✨ Features
 - ✅ Detect connected Android device and show **model / Android version / battery**
 - ✅ **Wi‑Fi ADB** connect (after one‑time USB pairing)
