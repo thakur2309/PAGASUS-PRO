@@ -101,6 +101,7 @@ Since `sudo apt install scrcpy` may not work on some systems, please follow the 
 
 ## 🪟 Windows Setup (Optional)
 - Install **Android Platform Tools** (ADB) from Google or via **winget**:
+- 👉 [Install adb for windows ](https://github.com/Genymobile/scrcpy/blob/master/doc/linux.md)
   ```powershell
   winget install --id Google.PlatformTools
   ```
