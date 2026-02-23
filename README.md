@@ -38,7 +38,9 @@ It’s perfect for beginners who want a clean interface to: check device info, c
 ### Example Output V-1.2 🎥
 ![Instagram Image ](https://raw.githubusercontent.com/thakur2309/PAGASUS-PRO/refs/heads/main/Screenshot_2025_1003_144711.jpg)
 
-<h3 align="center"> 📌Version-1.3 comming soon..</h3>
+### Example Output V-1.3 🎥
+![Instagram Image ](https://raw.githubusercontent.com/thakur2309/PAGASUS-PRO/refs/heads/main/Screenshot%202026-02-23%20223428.png)
+
 
 ## ✨ Features
 - ✅ Detect connected Android device and show **model / Android version / battery**
