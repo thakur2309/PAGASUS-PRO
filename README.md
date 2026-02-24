@@ -1,4 +1,4 @@
-# Pegasus v1.1 , v1.2 — ADB Utility Toolkit
+# Pegasus v1.1 , v1.2 , v1.3 — ADB Utility Toolkit
 
 > **Use for Educational Purpose Only — Stay Ethical.**  
 > Creator: **thakur2309**  
