@@ -1,0 +1,43 @@
+[project]
+name = "specter"
+version = "2.0.0a1"
+description = "AI-powered offensive security platform for authorized penetration testing"
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.12"
+dependencies = [
+    "rich>=13.7",
+    "pydantic>=2.5",
+    "pydantic-settings>=2.1",
+    "click>=8.1",
+    "sqlalchemy>=2.0",
+]
+
+[project.optional-dependencies]
+apple = ["pymobiledevice3>=2.30"]
+ai = ["langgraph>=0.0.40", "langchain-core>=0.1"]
+reporting = ["weasyprint>=60", "jinja2>=3.1"]
+network = ["python-nmap>=0.7"]
+full = ["specter[apple,ai,reporting,network]"]
+dev = ["pytest>=8.0", "pytest-asyncio", "ruff>=0.2", "mypy>=1.8"]
+
+[project.scripts]
+specter = "specter.cli.app:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.ruff]
+target-version = "py312"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "UP"]
+
+[tool.mypy]
+python_version = "3.12"
+strict = true
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
