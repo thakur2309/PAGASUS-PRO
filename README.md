@@ -310,7 +310,10 @@ Download from: https://git-scm.com/download/win → Install with default options
 ```powershell
 winget install Git.Git
 ```
-
+Verify:
+```powershell
+git --version
+```
 ---
 
 **Step 5 — Install all tools at once (PowerShell — Fastest Method)**
