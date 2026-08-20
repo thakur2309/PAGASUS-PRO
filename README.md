@@ -252,7 +252,7 @@ python --version
 
 > 💡 **PowerShell (winget) — One command install:**
 > ```powershell
-> winget install Python.Python.3
+> winget install Python.Python.3.11
 > ```
 
 ---
